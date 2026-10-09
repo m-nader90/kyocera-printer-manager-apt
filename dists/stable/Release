@@ -1,0 +1,24 @@
+Origin: Takhayal
+Label: Kyocera Printer Manager
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 all
+Components: main
+Date: Fri, 09 Oct 2026 12:10:08 +0000
+Description: Signed APT repository for Kyocera Printer Manager
+MD5Sum:
+ 6545f69117759452d14c659bf84e1dc0              758 main/binary-all/Packages
+ 1b86a27a8afa84c004069132fcb25c72              507 main/binary-all/Packages.gz
+ 6545f69117759452d14c659bf84e1dc0              758 main/binary-amd64/Packages
+ 1b86a27a8afa84c004069132fcb25c72              507 main/binary-amd64/Packages.gz
+SHA1:
+ 3fb150e5f24bbff04e657ee0b4f215a218252387              758 main/binary-all/Packages
+ 964df802a7485dfdacc63531d80d403a990e05c8              507 main/binary-all/Packages.gz
+ 3fb150e5f24bbff04e657ee0b4f215a218252387              758 main/binary-amd64/Packages
+ 964df802a7485dfdacc63531d80d403a990e05c8              507 main/binary-amd64/Packages.gz
+SHA256:
+ ee8271addbc5406ff9ce16d43ad2cbc832d9b4f6af13c1dd6eada2dc5be4de39              758 main/binary-all/Packages
+ 2ea0c7c3717204b3d5b4e641da6d7def639e38184ba546706cd52e7d1d902638              507 main/binary-all/Packages.gz
+ ee8271addbc5406ff9ce16d43ad2cbc832d9b4f6af13c1dd6eada2dc5be4de39              758 main/binary-amd64/Packages
+ 2ea0c7c3717204b3d5b4e641da6d7def639e38184ba546706cd52e7d1d902638              507 main/binary-amd64/Packages.gz
