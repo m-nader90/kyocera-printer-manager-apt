@@ -1,17 +1,17 @@
 Package: kyocera-printer-manager
-Version: 1.5.2
+Version: 1.5.3
 Architecture: all
 Maintainer: Takhayal <support@horus-center.org>
-Installed-Size: 2937
+Installed-Size: 2938
 Depends: python3 (>= 3.10), python3-pyqt5, python3-cryptography, cups-client, kmod, systemd, acl, openssl
 Section: utils
 Priority: optional
 Homepage: https://horus-center.org/
-Filename: pool/main/k/kyocera-printer-manager/kyocera-printer-manager_1.5.2_all.deb
-Size: 3006824
-MD5sum: 41f5af90b4991d360ba38055efa79dbe
-SHA1: cbb125ae7900347ae5f2dca82830203bdd76a3eb
-SHA256: 9e2afe4903d5c29e060d70cf67cf99080661a58caeff8dcaf485e84b5b84c9b2
+Filename: pool/main/k/kyocera-printer-manager/kyocera-printer-manager_1.5.3_all.deb
+Size: 3007606
+MD5sum: 3cb127c3897c3e08eab9eda23f1c4ad8
+SHA1: 0ebf341c22659762de74e689ac761e5ef07d6247
+SHA256: 5d0c516c4a4e718b6f973fb4a4c22369fb5532e02f2aca31734a997e568c7220
 Description: Kyocera printer counter collector and API forwarder
  Discovers network and USB printers, collects counters, queues reports,
  and delivers them securely to the configured API.
