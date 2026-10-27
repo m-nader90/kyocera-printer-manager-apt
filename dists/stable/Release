@@ -5,20 +5,20 @@ Codename: stable
 Version: 1.0
 Architectures: amd64 all
 Components: main
-Date: Tue, 27 Oct 2026 13:48:29 +0000
+Date: Tue, 27 Oct 2026 13:58:16 +0000
 Description: Signed APT repository for Kyocera Printer Manager
 MD5Sum:
- b24b9c30b18eec66cf4e68372d5a3c93              770 main/binary-all/Packages
- 96856c799dafca9729ed8a958c3e09de              514 main/binary-all/Packages.gz
- b24b9c30b18eec66cf4e68372d5a3c93              770 main/binary-amd64/Packages
- 96856c799dafca9729ed8a958c3e09de              514 main/binary-amd64/Packages.gz
+ 9c01b1662d26156bdcec1ca45371f898              770 main/binary-all/Packages
+ 5427208119980797570fd55e631d748e              513 main/binary-all/Packages.gz
+ 9c01b1662d26156bdcec1ca45371f898              770 main/binary-amd64/Packages
+ 5427208119980797570fd55e631d748e              513 main/binary-amd64/Packages.gz
 SHA1:
- cd2fdf5d513a37f5094392e77dfa9998fd2ee7c0              770 main/binary-all/Packages
- c5e8b0089225db28474c0e851c79db7cb0258452              514 main/binary-all/Packages.gz
- cd2fdf5d513a37f5094392e77dfa9998fd2ee7c0              770 main/binary-amd64/Packages
- c5e8b0089225db28474c0e851c79db7cb0258452              514 main/binary-amd64/Packages.gz
+ bc16b6cde0a014351e675ba9f2abc5648a69a01f              770 main/binary-all/Packages
+ 50c31c170863f2777e78bb70a092024d37e0e5a5              513 main/binary-all/Packages.gz
+ bc16b6cde0a014351e675ba9f2abc5648a69a01f              770 main/binary-amd64/Packages
+ 50c31c170863f2777e78bb70a092024d37e0e5a5              513 main/binary-amd64/Packages.gz
 SHA256:
- 1e1a040dd91e44bae4bf58a73bcdd783e82db6462b3b36a1e0841771e7e6898c              770 main/binary-all/Packages
- b6d018963afe4ed343d974060467ebf5888c60bc1a952c1ec3da010adfbf3f3e              514 main/binary-all/Packages.gz
- 1e1a040dd91e44bae4bf58a73bcdd783e82db6462b3b36a1e0841771e7e6898c              770 main/binary-amd64/Packages
- b6d018963afe4ed343d974060467ebf5888c60bc1a952c1ec3da010adfbf3f3e              514 main/binary-amd64/Packages.gz
+ 391a955a6ff9854e9bb6aa9b4b44fea6716eecc1839aea02b18b6461e72392f9              770 main/binary-all/Packages
+ 2c74a47fe156428ef5d653faedec39a4f9eab18fae7689dfa140feed51273a4d              513 main/binary-all/Packages.gz
+ 391a955a6ff9854e9bb6aa9b4b44fea6716eecc1839aea02b18b6461e72392f9              770 main/binary-amd64/Packages
+ 2c74a47fe156428ef5d653faedec39a4f9eab18fae7689dfa140feed51273a4d              513 main/binary-amd64/Packages.gz
