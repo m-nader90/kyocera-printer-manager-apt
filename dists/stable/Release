@@ -1,24 +1,33 @@
-Origin: Takhayal
-Label: Kyocera Printer Manager
-Suite: stable
-Codename: stable
-Version: 1.0
 Architectures: amd64 all
+Codename: stable
 Components: main
-Date: Wed, 28 Oct 2026 20:58:35 +0000
+Date: Thu, 29 Oct 2026 08:44:03 +0000
 Description: Signed APT repository for Kyocera Printer Manager
+Label: Kyocera Printer Manager
+Origin: Takhayal
+Suite: stable
+Version: 1.0
 MD5Sum:
- 3334f3d23ac687d3829968bf274d9d0b              789 main/binary-all/Packages
- 3cde978283e7ffcb39f108944e597533              520 main/binary-all/Packages.gz
- 3334f3d23ac687d3829968bf274d9d0b              789 main/binary-amd64/Packages
- 3cde978283e7ffcb39f108944e597533              520 main/binary-amd64/Packages.gz
+ ae687c80b4a0efc0b514f92d248287ff              235 Release
+ e886cebedfa01f02c7a0bf17f59f8ee0            10519 main/binary-all/Packages
+ 31e4656e5b2f2c479c22ebc286ac184a             2664 main/binary-all/Packages.gz
+ e886cebedfa01f02c7a0bf17f59f8ee0            10519 main/binary-amd64/Packages
+ 31e4656e5b2f2c479c22ebc286ac184a             2664 main/binary-amd64/Packages.gz
 SHA1:
- f6432be1db445d24b833c4e9c456d5689b55395f              789 main/binary-all/Packages
- 1eb329fb60d1ab65dca891ec4316c9544d1b83ae              520 main/binary-all/Packages.gz
- f6432be1db445d24b833c4e9c456d5689b55395f              789 main/binary-amd64/Packages
- 1eb329fb60d1ab65dca891ec4316c9544d1b83ae              520 main/binary-amd64/Packages.gz
+ 421b6008ed7e587adec1235da3a959acaa3faf21              235 Release
+ b8e001bbfbbce5b467744fcebf3aaf4855354e63            10519 main/binary-all/Packages
+ 5dbe51e6b7a0f87b9dfa3753c2458af4831b014b             2664 main/binary-all/Packages.gz
+ b8e001bbfbbce5b467744fcebf3aaf4855354e63            10519 main/binary-amd64/Packages
+ 5dbe51e6b7a0f87b9dfa3753c2458af4831b014b             2664 main/binary-amd64/Packages.gz
 SHA256:
- 23ebb6cccb2ca3c6a7cf046b20eb0abe2ce84c8cbb9200b514c5f9a7b4ba3ba5              789 main/binary-all/Packages
- fb5fadcec4a1e885e7653d8578240849080a9a95f62ec76ddc356ca7665193a7              520 main/binary-all/Packages.gz
- 23ebb6cccb2ca3c6a7cf046b20eb0abe2ce84c8cbb9200b514c5f9a7b4ba3ba5              789 main/binary-amd64/Packages
- fb5fadcec4a1e885e7653d8578240849080a9a95f62ec76ddc356ca7665193a7              520 main/binary-amd64/Packages.gz
+ 11eaf0d51e8e30fec8a39f612f898e8a36e444dfa0cb8572b66c94d426ddb30f              235 Release
+ e8ed6673423c97cdd145c6b17a8b6e5552284a136d0d0af65e49ef4d5bdc6a21            10519 main/binary-all/Packages
+ 50f0084c5d7bd0f5f04f457fbbea1c40e93483b10d2a57658eac8a65810b0677             2664 main/binary-all/Packages.gz
+ e8ed6673423c97cdd145c6b17a8b6e5552284a136d0d0af65e49ef4d5bdc6a21            10519 main/binary-amd64/Packages
+ 50f0084c5d7bd0f5f04f457fbbea1c40e93483b10d2a57658eac8a65810b0677             2664 main/binary-amd64/Packages.gz
+SHA512:
+ 5206030df3be2d45e263fdcf96851e422f3c80e5cae14eac3f90301f171c57b3912454593cef71d3a6f6a4916d2bcf3f70270156b6165b8428f1220ad38129f7              235 Release
+ a5850985c69abe96d3cef3484a08b38f259e46c68a28b2daf0a6347909c2d04ee54c0599a3596889b1e9935e4d8ce92b56f97f361d5f2556fcb31140b40a13bb            10519 main/binary-all/Packages
+ 005509c20a0206bf4a07c0790e73aab7f86ad83f47fd807167166a83382d3be87e8d2376ec1006654eb74c881b8fe239202c38def1391c39e24cbf6dde0136ae             2664 main/binary-all/Packages.gz
+ a5850985c69abe96d3cef3484a08b38f259e46c68a28b2daf0a6347909c2d04ee54c0599a3596889b1e9935e4d8ce92b56f97f361d5f2556fcb31140b40a13bb            10519 main/binary-amd64/Packages
+ 005509c20a0206bf4a07c0790e73aab7f86ad83f47fd807167166a83382d3be87e8d2376ec1006654eb74c881b8fe239202c38def1391c39e24cbf6dde0136ae             2664 main/binary-amd64/Packages.gz
