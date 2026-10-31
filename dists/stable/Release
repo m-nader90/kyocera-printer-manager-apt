@@ -5,20 +5,20 @@ Codename: stable
 Version: 1.0
 Architectures: amd64 all
 Components: main
-Date: Sat, 31 Oct 2026 13:57:09 +0000
+Date: Sat, 31 Oct 2026 15:34:09 +0000
 Description: Signed APT repository for Kyocera Printer Manager
 MD5Sum:
- d7e919cf40454ddb0d77278f25680552            11409 main/binary-all/Packages
- c5a4aae170f382e491fa1763c3e31f9d             2838 main/binary-all/Packages.gz
- d7e919cf40454ddb0d77278f25680552            11409 main/binary-amd64/Packages
- c5a4aae170f382e491fa1763c3e31f9d             2838 main/binary-amd64/Packages.gz
+ 25aceec18ae148546d88e2a48f282804            12300 main/binary-all/Packages
+ aba5a57c6256734d8a906800c0bd4dbf             3021 main/binary-all/Packages.gz
+ 25aceec18ae148546d88e2a48f282804            12300 main/binary-amd64/Packages
+ aba5a57c6256734d8a906800c0bd4dbf             3021 main/binary-amd64/Packages.gz
 SHA1:
- 756714693fd73726149693156e67cb0db9907f71            11409 main/binary-all/Packages
- 9ca1e2e2517e526a6dbe584c9b266a577830b9f4             2838 main/binary-all/Packages.gz
- 756714693fd73726149693156e67cb0db9907f71            11409 main/binary-amd64/Packages
- 9ca1e2e2517e526a6dbe584c9b266a577830b9f4             2838 main/binary-amd64/Packages.gz
+ 482fb65dbae769220c775846c80f594ba55029e7            12300 main/binary-all/Packages
+ 94b54009ef19d342b3c28067167a1f5c5fc82a22             3021 main/binary-all/Packages.gz
+ 482fb65dbae769220c775846c80f594ba55029e7            12300 main/binary-amd64/Packages
+ 94b54009ef19d342b3c28067167a1f5c5fc82a22             3021 main/binary-amd64/Packages.gz
 SHA256:
- fab76e85edf89d4837675fb0ffc31937e9d39ae8ecc00f33487c106887e61ff7            11409 main/binary-all/Packages
- 75b6023c0fc8e535fc2df7e92f4f3606cfbe56ac0a27813e7443e988a00ca759             2838 main/binary-all/Packages.gz
- fab76e85edf89d4837675fb0ffc31937e9d39ae8ecc00f33487c106887e61ff7            11409 main/binary-amd64/Packages
- 75b6023c0fc8e535fc2df7e92f4f3606cfbe56ac0a27813e7443e988a00ca759             2838 main/binary-amd64/Packages.gz
+ d5778545e7fa0770a974112fad058150d00572bc8a6c1d15221083ca4e04c484            12300 main/binary-all/Packages
+ dec696501839c470c34b78b15868d9c556838c7bb8a692b63c2e29c3f865f3b8             3021 main/binary-all/Packages.gz
+ d5778545e7fa0770a974112fad058150d00572bc8a6c1d15221083ca4e04c484            12300 main/binary-amd64/Packages
+ dec696501839c470c34b78b15868d9c556838c7bb8a692b63c2e29c3f865f3b8             3021 main/binary-amd64/Packages.gz

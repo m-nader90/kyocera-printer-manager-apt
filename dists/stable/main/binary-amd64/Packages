@@ -161,6 +161,24 @@ SHA256: aa7f9469cce66d2cc583a66b760c5dae5f1fbe256adbf251a78362c5aafdb990
 SHA512: 13ff84ef5ab8005a3c465d6dc28634767cf665d793259b8469192a64d52dc8b92bd9f548c566e88dbca533d81dfc14300cc163bb74d136bc49c4ef45bef02eaa
 
 Package: kyocera-printer-manager
+Version: 1.7.16
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Takhayal
+Homepage: https://horus-center.org/
+Depends: python3 (>= 3.10), python3-pyqt5, python3-cryptography, python3-aiohttp, cups, cups-client, kmod, systemd, udev, acl, openssl
+Description: Kyocera printer counter collector and API forwarder
+ Collects counters through SNMP, Command Center RX, and USB PJL, queues reports,
+ and delivers them to the configured API twice daily.
+Filename: pool/main/k/kyocera-printer-manager/kyocera-printer-manager_1.7.16_all.deb
+Size: 3041804
+MD5sum: 70ef6527c789d6f48fca7afbaaa9a7af
+SHA1: 6ade379d1958fb564e2daac7a0a5e06a81a66b3a
+SHA256: 8c593aa1686579d721c8e648c7e01622dcaa00d559a42af95f69aa05c5b899e8
+SHA512: 015e1b74d27e90ce9e386bc95594850e03ab74122024385cf8ef7e9f46d50f56588fceb298c2abc6dd249fe5e8f662df6b7d2781e52ffceeb87fdcdfacffdc7d
+
+Package: kyocera-printer-manager
 Version: 1.7.6
 Section: utils
 Priority: optional
