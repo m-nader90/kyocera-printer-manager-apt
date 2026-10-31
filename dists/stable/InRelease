@@ -8,27 +8,27 @@ Codename: stable
 Version: 1.0
 Architectures: amd64 all
 Components: main
-Date: Sat, 31 Oct 2026 15:34:09 +0000
+Date: Sat, 31 Oct 2026 19:06:06 +0000
 Description: Signed APT repository for Kyocera Printer Manager
 MD5Sum:
- 25aceec18ae148546d88e2a48f282804            12300 main/binary-all/Packages
- aba5a57c6256734d8a906800c0bd4dbf             3021 main/binary-all/Packages.gz
- 25aceec18ae148546d88e2a48f282804            12300 main/binary-amd64/Packages
- aba5a57c6256734d8a906800c0bd4dbf             3021 main/binary-amd64/Packages.gz
+ e95e8078c9b49ba4896a579d787438aa              789 main/binary-all/Packages
+ 0eb22395b7d551f6287a32c760b9a00e              520 main/binary-all/Packages.gz
+ e95e8078c9b49ba4896a579d787438aa              789 main/binary-amd64/Packages
+ 0eb22395b7d551f6287a32c760b9a00e              520 main/binary-amd64/Packages.gz
 SHA1:
- 482fb65dbae769220c775846c80f594ba55029e7            12300 main/binary-all/Packages
- 94b54009ef19d342b3c28067167a1f5c5fc82a22             3021 main/binary-all/Packages.gz
- 482fb65dbae769220c775846c80f594ba55029e7            12300 main/binary-amd64/Packages
- 94b54009ef19d342b3c28067167a1f5c5fc82a22             3021 main/binary-amd64/Packages.gz
+ 6863153bcb753fe26e4ea8147ee31c8e07840f8f              789 main/binary-all/Packages
+ e819e2b2e4de2659560b3acfd696d0caaca51afb              520 main/binary-all/Packages.gz
+ 6863153bcb753fe26e4ea8147ee31c8e07840f8f              789 main/binary-amd64/Packages
+ e819e2b2e4de2659560b3acfd696d0caaca51afb              520 main/binary-amd64/Packages.gz
 SHA256:
- d5778545e7fa0770a974112fad058150d00572bc8a6c1d15221083ca4e04c484            12300 main/binary-all/Packages
- dec696501839c470c34b78b15868d9c556838c7bb8a692b63c2e29c3f865f3b8             3021 main/binary-all/Packages.gz
- d5778545e7fa0770a974112fad058150d00572bc8a6c1d15221083ca4e04c484            12300 main/binary-amd64/Packages
- dec696501839c470c34b78b15868d9c556838c7bb8a692b63c2e29c3f865f3b8             3021 main/binary-amd64/Packages.gz
+ 340baf7d9f416552fa5f3a6bf1ff6783abbb92cb6723c9d623b752a668ed1992              789 main/binary-all/Packages
+ e4d16df5c90072401eeb918b52190d746820a766768a85742773ba9a9d36011f              520 main/binary-all/Packages.gz
+ 340baf7d9f416552fa5f3a6bf1ff6783abbb92cb6723c9d623b752a668ed1992              789 main/binary-amd64/Packages
+ e4d16df5c90072401eeb918b52190d746820a766768a85742773ba9a9d36011f              520 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSuaMIW8M2tXXyURhVJujJkmP5aFwUCauYKcQAKCRBJujJkmP5a
-F21WAQDv2/cCr+ugIQ76zXsS3sCI8JF4kxnxIgAoXQ7l96hypQEA2omeDVjrq10A
-LS+RN9XBmslKH2zHOZcRuE0J0P5Zmwk=
-=Ld0d
+iHUEARYIAB0WIQSuaMIW8M2tXXyURhVJujJkmP5aFwUCauY8HgAKCRBJujJkmP5a
+F3Z/AQDct1K2HF1HuVCK0hiraSrhByiPAeV0wANK11yVpj2EJQD+OtRfS8/I+h6s
++qjFFfDeMfhmZWJXXijQC5iPLQkhkwc=
+=vtDp
 -----END PGP SIGNATURE-----
