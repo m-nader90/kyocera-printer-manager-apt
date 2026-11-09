@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Origin: Takhayal
 Label: Kyocera Printer Manager
@@ -8,27 +8,34 @@ Codename: stable
 Version: 1.0
 Architectures: amd64 all
 Components: main
-Date: Sat, 31 Oct 2026 19:06:06 +0000
+Date: Mon, 09 Nov 2026 10:33:47 +0000
 Description: Signed APT repository for Kyocera Printer Manager
 MD5Sum:
- e95e8078c9b49ba4896a579d787438aa              789 main/binary-all/Packages
- 0eb22395b7d551f6287a32c760b9a00e              520 main/binary-all/Packages.gz
- e95e8078c9b49ba4896a579d787438aa              789 main/binary-amd64/Packages
- 0eb22395b7d551f6287a32c760b9a00e              520 main/binary-amd64/Packages.gz
+ 44320ea5984635f68535d76ab83c3a96            12621 main/binary-all/Packages
+ 171f682408ce229fea419a02b95aa220             2141 main/binary-all/Packages.gz
+ 44320ea5984635f68535d76ab83c3a96            12621 main/binary-amd64/Packages
+ 171f682408ce229fea419a02b95aa220             2141 main/binary-amd64/Packages.gz
 SHA1:
- 6863153bcb753fe26e4ea8147ee31c8e07840f8f              789 main/binary-all/Packages
- e819e2b2e4de2659560b3acfd696d0caaca51afb              520 main/binary-all/Packages.gz
- 6863153bcb753fe26e4ea8147ee31c8e07840f8f              789 main/binary-amd64/Packages
- e819e2b2e4de2659560b3acfd696d0caaca51afb              520 main/binary-amd64/Packages.gz
+ 72755c85ab6e17e56d3d7bdff66ca6b1154660df            12621 main/binary-all/Packages
+ 49a35e173a530ccbc57ca3f8975ffbd13238b485             2141 main/binary-all/Packages.gz
+ 72755c85ab6e17e56d3d7bdff66ca6b1154660df            12621 main/binary-amd64/Packages
+ 49a35e173a530ccbc57ca3f8975ffbd13238b485             2141 main/binary-amd64/Packages.gz
 SHA256:
- 340baf7d9f416552fa5f3a6bf1ff6783abbb92cb6723c9d623b752a668ed1992              789 main/binary-all/Packages
- e4d16df5c90072401eeb918b52190d746820a766768a85742773ba9a9d36011f              520 main/binary-all/Packages.gz
- 340baf7d9f416552fa5f3a6bf1ff6783abbb92cb6723c9d623b752a668ed1992              789 main/binary-amd64/Packages
- e4d16df5c90072401eeb918b52190d746820a766768a85742773ba9a9d36011f              520 main/binary-amd64/Packages.gz
+ 52fc4b1d3e1781852e6395b95ec3b454d99c2b46507511906c29104254c204f0            12621 main/binary-all/Packages
+ a30fd03e36a30a51c4534726ec711ab891feae9c40159bd488ddebb6ea5c1dcd             2141 main/binary-all/Packages.gz
+ 52fc4b1d3e1781852e6395b95ec3b454d99c2b46507511906c29104254c204f0            12621 main/binary-amd64/Packages
+ a30fd03e36a30a51c4534726ec711ab891feae9c40159bd488ddebb6ea5c1dcd             2141 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSuaMIW8M2tXXyURhVJujJkmP5aFwUCauY8HgAKCRBJujJkmP5a
-F3Z/AQDct1K2HF1HuVCK0hiraSrhByiPAeV0wANK11yVpj2EJQD+OtRfS8/I+h6s
-+qjFFfDeMfhmZWJXXijQC5iPLQkhkwc=
-=vtDp
+iQGzBAEBCgAdFiEExfgJ/wH/7p9Q3ZfMgjsPKBU5mAkFAmrxoYsACgkQgjsPKBU5
+mAn1ZAv9EPwngMgTZuq+AYk/I9yo9byJuesTv31MRMMHN2sHlisayW53ICqaBGCw
+Ky3pr108XezahFZjqGC5GlRWZd1OvyAEzs3xHIVAOUyBFpEXVSoV+yEBjclC4HRJ
+KRvl+YivpqseSmLecN85nwNEzkxC4JZiRPGPIjfG6TRSqeKYCfIA1Rezm51YAjhI
+t4X9NGV6MgWgp2Jx35W5hxtahLnhFE7NR+XSuqXG1vspb3Ld0qxHI83ucUy2u32O
+Ql6FxFLFmaYO1jPqgHqPMiijsYnotIw1aHqnjuXCPjrRLRzPocEvvVow+xOiB5pt
+sX+pJXjvdbE62jLFRbCKN/ZyXdVW1CxRJqGVX3bsBKnQuLbdiy3PHs3omDlU/Hyu
+zoAYM6prVnliYBJJrQsF00hLLb2NAvIiFSoZYnsTOqjoxiCfJ7JWn+lahan6pwZx
+HdRhBb1GuTsvkWcNdF+4XDPnjI455IkVgFd+rnW5TbsXoQSsbnfzaFNFYLI8k9s7
+bo7wvbkT
+=yeaB
 -----END PGP SIGNATURE-----
